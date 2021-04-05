@@ -173,7 +173,8 @@ class _MyHomePageState extends State<MyHomePage> {
                                       child: FadeInImage.memoryNetwork(
                                           fit: BoxFit.cover,
                                           placeholder: kTransparentImage,
-                                          image: 'assets/images/aboutme.jpg'),
+                                          image:
+                                              'assets/assets/images/aboutme.jpg'),
                                     ),
                                     Padding(
                                       padding: const EdgeInsets.all(100.0),

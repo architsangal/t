@@ -1,0 +1,1 @@
+ build/web/icons/Icon-512.png build/web/icons/Icon-192.png build/web/favicon.png build/web/index.html build/web/manifest.json:  /home/archit/t/code/web/icons/Icon-512.png /home/archit/t/code/web/icons/Icon-192.png /home/archit/t/code/web/favicon.png /home/archit/t/code/web/index.html /home/archit/t/code/web/manifest.json
